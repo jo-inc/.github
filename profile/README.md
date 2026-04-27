@@ -16,4 +16,4 @@ jo builds AI agents that actually do things for you.
 
 ---
 
-[askjo.ai](https://askjo.ai) · [pradeep.md](https://pradeep.md)
+[askjo.ai](https://askjo.ai) · [pradeep.md](https://pradeep.md) · [liveink.md](https://liveink.md) 

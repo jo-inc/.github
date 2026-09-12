@@ -6,7 +6,7 @@ jo builds AI agents that actually do things for you.
 
 | repo | what it does |
 |------|-------------|
-| [camofox-browser](https://github.com/jo-inc/camofox-browser) ⭐ 3K+ | stealth headless browser for AI agents — based on camoufox, built for automation |
+| [camofox-browser](https://github.com/jo-inc/camofox-browser) ⭐ 11K+ | stealth headless browser for AI agents — based on camoufox, built for automation |
 | [pi-mem](https://github.com/jo-inc/pi-mem) | persistent markdown memory for AI coding agents |
 | [pi-reflect](https://github.com/jo-inc/pi-reflect) | self-improving behavioral files for coding agents |
 | [safe-skill-search](https://github.com/jo-inc/safe-skill-search) | fast local semantic search across agent skill registries (rust) |
